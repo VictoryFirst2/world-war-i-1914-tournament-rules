@@ -9,7 +9,7 @@
 <li>Make sure to do the same trick with the map folder as you did with the main folder. There should only be one map folder, not two inside each other.</li>
 <li>Remove the "-main" from the main folder's file name, so that it says "world-war-i-1914-tournament-rules".</li>
 <li>Place the file in your TripleA downloadedMaps folder.</li>
-<li>While following these steps, make sure to replace all zipped files with unzipped ones.</li>
+<li>While following these steps, make sure to replace all zipped files with unzipped ones. Remove any zipped files that are left.</li>
 </ul>
 <br>If you have followed these steps, the map should show up when you click on "Select Game" after having booted up TripleA, under the name "World War I 1914 Tournament Rules".
 <br>
